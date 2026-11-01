@@ -1,0 +1,8 @@
+# Python 3.12
+# Data analysis and machine learning
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+
+# Notebook kernel for VS Code
+ipykernel==6.29.5
