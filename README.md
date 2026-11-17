@@ -74,7 +74,7 @@ Open `notebook.ipynb` in VS Code or Jupyter and run the cells in order. Check th
 
 ## About
 
-Created as part of my **MBA in Artificial Intelligence & Data Science at TripleTen**. My portfolio focuses on applying **Data Science, statistical reasoning, and Machine Learning** to practical decisions, drawing on my background in Mechanical Engineering.
+Created as part of my **MBA in Artificial Intelligence & Data Science at TripleTen**. My portfolio focuses on applying **Data Science, statistical reasoning, and Machine Learning** to practical decisions, drawing on my background as an Engineer.
 
 - [GitHub profile](https://github.com/pedrolocosta)
 - [LinkedIn](https://www.linkedin.com/in/pedrolocosta/)
